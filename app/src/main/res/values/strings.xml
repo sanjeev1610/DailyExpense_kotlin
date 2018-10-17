@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DailyExpense</string>
+    <string-array name="type">
+        <item>Income</item>
+        <item>Expenditure</item>
+    </string-array>
+    <string name="income_btn">Income</string>
+    <string name="Exp_btn">Expenditure</string>
+    <string name="enter_money_here">Enter Money Here</string>
+    <string name="enter_description_here">Enter Description Here</string>
+    <string name="enter_date_here">Enter Date Here</string>
+    <string name="insert">Insert</string>
+    <string name="read">Read</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+
+</resources>
